@@ -1458,6 +1458,4 @@ module:
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
-      eidos.out.will.yml:
-        hash: c6b92e8966925f23ab199a5bffdebbb2
-        size: 36852
+      eidos.out.will.yml: *ref_0
