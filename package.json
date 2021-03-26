@@ -1,6 +1,6 @@
 {
   "name": "eidos",
-  "version": "0.2.62",
+  "version": "0.2.63",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
@@ -21,12 +21,12 @@
     "url": "https://github.com/Wandalen/eidos/issues"
   },
   "dependencies": {
-    "wTools": "gamma"
+    "wTools": "delta"
   },
   "devDependencies": {
     "eidos": "file:.",
     "eslint": "7.1.0",
-    "wTesting": "gamma"
+    "wTesting": "delta"
   },
   "keywords": [
     "wTools"
