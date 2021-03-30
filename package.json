@@ -1,13 +1,14 @@
 {
   "name": "eidos",
-  "version": "0.2.65",
+  "version": "0.2.66",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
   "main": "proto/wtools/Tools.s",
   "files": [
     "proto/wtools/___",
-    "proto/wtools/Tools.s"
+    "proto/wtools/Tools.s",
+    "proto/node_modules"
   ],
   "scripts": {
     "test": "wtest .run proto rapidity:-3",
@@ -24,7 +25,6 @@
     "wTools": "delta"
   },
   "devDependencies": {
-    "eidos": "file:.",
     "eslint": "7.1.0",
     "wTesting": "delta"
   },
